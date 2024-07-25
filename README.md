@@ -55,7 +55,11 @@
 ## 💻Experience
 <p align="left">
   
-  - System Development Engineer Intern - 6 months at ![Amazon](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) 
+  - Software Development Engineer 1 - at ![Amazon](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) 
+</p>
+<p align="left">
+  
+  - Software Development Engineer Intern - 6 months at ![Amazon](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) 
 </p>
 
 
